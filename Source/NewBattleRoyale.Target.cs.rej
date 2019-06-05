@@ -1,0 +1,16 @@
+diff a/Source/NewBattleRoyale.Target.cs b/Source/NewBattleRoyale.Target.cs	(rejected hunks)
+@@ -0,0 +1,14 @@
++// Fill out your copyright notice in the Description page of Project Settings.
++
++using UnrealBuildTool;
++using System.Collections.Generic;
++
++public class NewBattleRoyaleTarget : TargetRules
++{
++	public NewBattleRoyaleTarget(TargetInfo Target) : base(Target)
++	{
++		Type = TargetType.Game;
++
++		ExtraModuleNames.AddRange( new string[] { "NewBattleRoyale" } );
++	}
++}
