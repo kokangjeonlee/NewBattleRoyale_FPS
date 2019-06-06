@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.21",
+	"EngineAssociation": "{327F1422-4D7E-6FBC-03FB-D0BFEDB280CD}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -14,10 +14,6 @@
 		}
 	],
 	"Plugins": [
-		{
-			"Name": "VaRestPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
-		}
+	
 	]
 }
